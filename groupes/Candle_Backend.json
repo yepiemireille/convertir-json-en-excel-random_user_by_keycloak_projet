@@ -1,0 +1,131 @@
+
+[
+    {
+        "id": "11eea5fb-5358-4601-b2b7-0dcd92662590",
+        "createdTimestamp": 1700746659752,
+        "username": "c_ytraore3",
+        "enabled": false,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Yacouba",
+        "lastName": "Traoré",
+        "email": "yacouba2.traore@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=Traoré Yacouba c_ytraore3,OU=OFF-Boarding Users,OU=_Depart,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "d2d0027c-c801-488e-a211-8cc706dfa223"
+            ],
+            "modifyTimestamp": [
+                "20250511001734.0Z"
+            ],
+            "createTimestamp": [
+                "20221221114127.0Z"
+            ],
+            "direction": [
+                "CSPT"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "2c984c2f-2cb5-45a5-9c72-42f14f872801",
+        "createdTimestamp": 1712071192463,
+        "username": "gmqg4741",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Tawan Michael",
+        "lastName": "DIOMANDE",
+        "email": "michael1.diomande@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=DIOMANDE Tawan Michael,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "modifyTimestamp": [
+                "20250701115009.0Z"
+            ],
+            "direction": [
+                "OMCI"
+            ],
+            "createTimestamp": [
+                "20210909161125.0Z"
+            ],
+            "LDAP_ID": [
+                "e74f5cdc-e669-42f2-b4d5-b38258de2261"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "1e887856-e7f6-44bb-9e98-86af550bbcd5",
+        "createdTimestamp": 1712071239024,
+        "username": "kodia alexandre edoukou",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Alexandre Edoukou",
+        "lastName": "KODIA",
+        "email": "alexandre.kodia@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=KODIA Alexandre Edoukou,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "modifyTimestamp": [
+                "20250703084927.0Z"
+            ],
+            "createTimestamp": [
+                "20210820132357.0Z"
+            ],
+            "LDAP_ID": [
+                "a73a3086-13a6-470f-bd75-4efb804b2f0d"
+            ],
+            "direction": [
+                "OMCI"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "391e6171-ea67-4020-96bf-b0eca8726806",
+        "createdTimestamp": 1719310457634,
+        "username": "tkbc4810",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Fatim",
+        "lastName": "NDIONNE",
+        "email": "fatim.ndionne@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=NDIONNE Anne Fatim,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "f6859cd5-a8c7-423c-af45-6167d0e92c36"
+            ],
+            "modifyTimestamp": [
+                "20250626101920.0Z"
+            ],
+            "direction": [
+                "OMCI"
+            ],
+            "createTimestamp": [
+                "20170713180940.0Z"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    }
+]

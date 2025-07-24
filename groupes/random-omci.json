@@ -1,0 +1,227 @@
+
+[
+    {
+        "id": "201659aa-eddd-4c6c-94d9-58c3bcaa0562",
+        "createdTimestamp": 1701178323945,
+        "username": "c_sgbane",
+        "enabled": true,
+        "totp": true,
+        "emailVerified": false,
+        "firstName": "Salia",
+        "lastName": "GBANE",
+        "email": "salia.gbane@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=GBANE Salia,OU=Consultant,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "c3d9631e-24e4-48d3-97da-e987b5823e11"
+            ],
+            "modifyTimestamp": [
+                "20250627140417.0Z"
+            ],
+            "direction": [
+                "DSI"
+            ],
+            "createTimestamp": [
+                "20220119183258.0Z"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "1e887856-e7f6-44bb-9e98-86af550bbcd5",
+        "createdTimestamp": 1712071239024,
+        "username": "kodia alexandre edoukou",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Alexandre Edoukou",
+        "lastName": "KODIA",
+        "email": "alexandre.kodia@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=KODIA Alexandre Edoukou,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "modifyTimestamp": [
+                "20250703084927.0Z"
+            ],
+            "createTimestamp": [
+                "20210820132357.0Z"
+            ],
+            "LDAP_ID": [
+                "a73a3086-13a6-470f-bd75-4efb804b2f0d"
+            ],
+            "direction": [
+                "OMCI"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "382871d1-e9f4-41a1-809e-93156caa3740",
+        "createdTimestamp": 1700498795609,
+        "username": "kxtg5452",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "CYRIL FRANCK",
+        "lastName": "KEULEGBE",
+        "email": "cyril.keulegbe@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=KEULEGBE CYRIL FRANCK,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "b8b535b2-9c7c-4303-9846-d4acfa47aa98"
+            ],
+            "modifyTimestamp": [
+                "20250702052038.0Z"
+            ],
+            "direction": [
+                "CSPT"
+            ],
+            "createTimestamp": [
+                "20210415131059.0Z"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "2f1ecb05-1bd1-4401-908a-58d2600cdb7e",
+        "createdTimestamp": 1712071259417,
+        "username": "qlgh0679",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Hugues Sylvère Nango",
+        "lastName": "AKRE",
+        "email": "sylvere.akre@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=AKRE Hugues Sylvère  QLGH0679,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "c91e84ee-0534-4e08-968d-26cffa54887d"
+            ],
+            "modifyTimestamp": [
+                "20250703092728.0Z"
+            ],
+            "direction": [
+                "OMCI"
+            ],
+            "createTimestamp": [
+                "20231211141821.0Z"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "e3cc9b86-b8e1-4968-861e-f2842997bff8",
+        "createdTimestamp": 1700499583278,
+        "username": "srkj1465",
+        "enabled": false,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "CHEICK OUMAR",
+        "lastName": "TRAORE",
+        "email": "cheick.traore@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=TRAORE CHEICK OUMAR,OU=OFF-Boarding Users,OU=_Depart,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "87bf584c-df1a-4390-a336-79a3b45fb070"
+            ],
+            "modifyTimestamp": [
+                "20241104121327.0Z"
+            ],
+            "direction": [
+                "OMCI"
+            ],
+            "createTimestamp": [
+                "20100114161531.0Z"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "3fc4f1ad-5e8a-48a2-83ce-bdaa82f9fbe3",
+        "createdTimestamp": 1712071305378,
+        "username": "xflq6854",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Amed Donakan",
+        "lastName": "SEKONGO",
+        "email": "amed.sekongo@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=SEKONGO  Amed Donakan,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "1c6cbf3f-7b18-4f02-9148-be29bac0f250"
+            ],
+            "modifyTimestamp": [
+                "20250625104904.0Z"
+            ],
+            "direction": [
+                "OMCI"
+            ],
+            "createTimestamp": [
+                "20200917132148.0Z"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "6d259c47-f303-42f4-940b-f950b924750f",
+        "createdTimestamp": 1712071287381,
+        "username": "xxxp2601",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "ARMEL JOSUE",
+        "lastName": "KRAGBE",
+        "email": "josue.kragbe@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=KRAGBE ARMEL JOSUE,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "65b8e8f8-d306-486e-b3ba-ae85f64c7e2a"
+            ],
+            "createTimestamp": [
+                "20140508225644.0Z"
+            ],
+            "modifyTimestamp": [
+                "20250624120404.0Z"
+            ],
+            "direction": [
+                "OMCI"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    }
+]

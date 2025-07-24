@@ -1,0 +1,227 @@
+
+[
+    {
+        "id": "4865dc2e-1db4-43d6-9aea-be9f3738c148",
+        "createdTimestamp": 1722428189087,
+        "username": "c_eyepie",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Essé Mireille",
+        "lastName": "YEPIE",
+        "email": "mireille.yepie@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=YEPIE Essé Mireille c_eyepie,OU=Consultant,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "modifyTimestamp": [
+                "20250703071231.0Z"
+            ],
+            "direction": [
+                "DRSI/DSIS"
+            ],
+            "createTimestamp": [
+                "20240416165117.0Z"
+            ],
+            "LDAP_ID": [
+                "e5bebda1-5825-4f78-8805-ba0f725bcdbf"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "ba3caf19-3463-4a39-b02d-c0467b77c447",
+        "createdTimestamp": 1738751481432,
+        "username": "c_kdiarra",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Kodana Adama",
+        "lastName": "Diarra",
+        "email": "kodanadiarra@gmail.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=Diarra Kodana Adama c_kdiarra,OU=Consultant,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "modifyTimestamp": [
+                "20250515091454.0Z"
+            ],
+            "direction": [
+                "DRSI/DSIS"
+            ],
+            "createTimestamp": [
+                "20250127082513.0Z"
+            ],
+            "LDAP_ID": [
+                "1420535e-ae28-4932-b0bd-7922a6193cac"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "201659aa-eddd-4c6c-94d9-58c3bcaa0562",
+        "createdTimestamp": 1701178323945,
+        "username": "c_sgbane",
+        "enabled": true,
+        "totp": true,
+        "emailVerified": false,
+        "firstName": "Salia",
+        "lastName": "GBANE",
+        "email": "salia.gbane@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=GBANE Salia,OU=Consultant,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "c3d9631e-24e4-48d3-97da-e987b5823e11"
+            ],
+            "modifyTimestamp": [
+                "20250627140417.0Z"
+            ],
+            "direction": [
+                "DSI"
+            ],
+            "createTimestamp": [
+                "20220119183258.0Z"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "4716044e-9cd6-47f8-8271-6a670ba4881f",
+        "createdTimestamp": 1701178323935,
+        "username": "jckt5225",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Abdoulaziz Bassedou Junior",
+        "lastName": "GBANE",
+        "email": "abdoulaziz.gbane@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=GBANE Abdoulaziz Bassedou Junior,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "0e4eab7b-27ec-4519-8b52-fd2228336244"
+            ],
+            "modifyTimestamp": [
+                "20250626171455.0Z"
+            ],
+            "createTimestamp": [
+                "20200709164343.0Z"
+            ],
+            "direction": [
+                "CSPT"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "382871d1-e9f4-41a1-809e-93156caa3740",
+        "createdTimestamp": 1700498795609,
+        "username": "kxtg5452",
+        "enabled": true,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "CYRIL FRANCK",
+        "lastName": "KEULEGBE",
+        "email": "cyril.keulegbe@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=KEULEGBE CYRIL FRANCK,OU=Users,OU=OR-CI,DC=ocitnetad,DC=ci"
+            ],
+            "LDAP_ID": [
+                "b8b535b2-9c7c-4303-9846-d4acfa47aa98"
+            ],
+            "modifyTimestamp": [
+                "20250702052038.0Z"
+            ],
+            "direction": [
+                "CSPT"
+            ],
+            "createTimestamp": [
+                "20210415131059.0Z"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "bbb26ff1-504f-48cc-a48a-682ebed47d72",
+        "createdTimestamp": 1720019826661,
+        "username": "rtyc9396",
+        "enabled": false,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Adama Kodana",
+        "lastName": "DIARRA",
+        "email": "adama1.diarra@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=DIARRA Adama Kodana RTYC9396,OU=OFF-Boarding Users,OU=_Depart,DC=ocitnetad,DC=ci"
+            ],
+            "modifyTimestamp": [
+                "20250329093857.0Z"
+            ],
+            "direction": [
+                "DRSI"
+            ],
+            "createTimestamp": [
+                "20220819113254.0Z"
+            ],
+            "LDAP_ID": [
+                "74af54e1-fe1f-46c0-b7df-b086ecec983d"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    },
+    {
+        "id": "6f2197c8-9847-472b-b110-4e5fe37d7473",
+        "createdTimestamp": 1723646435177,
+        "username": "zpgj2511",
+        "enabled": false,
+        "totp": false,
+        "emailVerified": false,
+        "firstName": "Hamza Fatemate",
+        "lastName": "DIABY",
+        "email": "hamza.diaby@orange.com",
+        "federationLink": "a99e3331-0242-479c-9ff6-619e3da31a5a",
+        "attributes": {
+            "LDAP_ENTRY_DN": [
+                "CN=DIABY Hamza Fatemate ZPGJ2511,OU=OFF-Boarding Users,OU=_Depart,DC=ocitnetad,DC=ci"
+            ],
+            "modifyTimestamp": [
+                "20250304014912.0Z"
+            ],
+            "direction": [
+                "DRSI/DSIS"
+            ],
+            "createTimestamp": [
+                "20240326093449.0Z"
+            ],
+            "LDAP_ID": [
+                "517e54f2-3f51-4b82-98ff-f81c4f32407c"
+            ]
+        },
+        "disableableCredentialTypes": [],
+        "requiredActions": [],
+        "notBefore": 0
+    }
+]

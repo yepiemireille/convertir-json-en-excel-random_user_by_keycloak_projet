@@ -1,0 +1,46 @@
+
+[
+  {
+      "id": "076d172f-2ab9-439b-88d0-2471ff945628",
+      "name": "Candle",
+      "path": "/Candle",
+      "subGroups": [
+          {
+              "id": "90ea32b3-38d7-43ba-9147-b57a3ba51210",
+              "name": "Backend",
+              "path": "/Candle/Backend",
+              "subGroups": []
+          },
+          {
+              "id": "ac11c7cb-4ac3-423f-ac55-609642f69fbd",
+              "name": "Analyste",
+              "path": "/Candle/Analyste",
+              "subGroups": []
+          }
+      ]
+  },
+  {
+      "id": "1bacd0ea-3d1d-43d5-a658-f73eb6c1620b",
+      "name": "DevTest",
+      "path": "/DevTest",
+      "subGroups": []
+  },
+  {
+      "id": "8276e374-2fde-4b40-b465-f32f70129156",
+      "name": "Homologation",
+      "path": "/Homologation",
+      "subGroups": []
+  },
+  {
+      "id": "bf7e08c4-aeec-444d-bc2a-9a7afaab4d08",
+      "name": "Superadmin",
+      "path": "/Superadmin",
+      "subGroups": []
+  },
+  {
+      "id": "b175babf-9351-4435-a469-a5f922e94cbd",
+      "name": "random-omci",
+      "path": "/random-omci",
+      "subGroups": []
+  }
+]
